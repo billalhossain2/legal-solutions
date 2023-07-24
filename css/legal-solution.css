@@ -1,0 +1,28 @@
+body {
+    font-family: "Poppins", sans-serif;
+  }
+
+  .garamond {
+    font-family: "EB Garamond", serif;
+  }
+
+  .poppins {
+    font-family: "Poppins", sans-serif;
+  }
+
+  .dark-small-text {
+    color: #707070;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+  }
+
+  .dark-heading {
+    color: #414040;
+    text-align: center;
+    font-family: "EB Garamond";
+    font-size: 40px;
+    font-weight: 800;
+  }
